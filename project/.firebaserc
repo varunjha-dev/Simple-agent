@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "simple-agent-321",
+    "agent": "simple-agent-321"
+  },
+  "targets": {},
+  "etags": {}
+}
